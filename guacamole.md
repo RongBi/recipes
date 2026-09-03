@@ -2,6 +2,8 @@
 ## Ingredients
 • avocado
 • lime
-• salti
+• salt
+• banana
+• apple
 ## Instructions
 
