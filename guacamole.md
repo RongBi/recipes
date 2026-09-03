@@ -1,4 +1,7 @@
 # Guacamale
-## Inredients
+## Ingredients
+• avocado
+• lime
+• salt
 ## Instructions
 
