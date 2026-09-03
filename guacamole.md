@@ -5,5 +5,6 @@
 • salt
 • banana
 • apple
+* soda
 ## Instructions
 
